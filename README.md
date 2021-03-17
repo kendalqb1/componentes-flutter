@@ -1,6 +1,6 @@
-# componentes
+# Componentes
 
-A new Flutter project.
+Nuevo proyecto de flutter, es un proyecto donde se muestran muchos widgets y componentes de flutter
 
 ## Getting Started
 
